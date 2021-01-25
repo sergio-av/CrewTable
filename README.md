@@ -1,5 +1,7 @@
 # CrewTable
 
+- Trello : [CrewTable](https://trello.com/b/XNgl3ZbJ/crewtable)
+
 ## API Utilizada
 
 [Board Games Atlas](https://www.boardgameatlas.com/api/docs) 
