@@ -1,5 +1,9 @@
 # CrewTable
 
+## API Utilizada
+
+[Board Games Atlas](https://www.boardgameatlas.com) 
+
 ## Descripción
 
 CrewTable es una web basada en los juegos de mesa, existe una comunidad muy grande de jugadores de mesa, y existe una variedad de juegos de mesa 
