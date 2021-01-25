@@ -17,7 +17,7 @@ concretos. Y luego la actividad principal, seria un apartado para la creacion de
 - Nombre evento:  "Partida de rol de Dungeon Dragons classic". 
 - Asunto evento:  "Necesitamos 3 personas para jugar".
 - Localización: "Raacon Game" Sevilla.
-
+===================================================================
 - Nombre evento: "Torneo Yu Gi-OH"
 - Asunto evento: " 25 entradas a 10€/entrada"
 - Localizacion:  " Fibes palacio de congresos"
