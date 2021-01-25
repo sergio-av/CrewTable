@@ -2,7 +2,7 @@
 
 ## API Utilizada
 
-[Board Games Atlas](https://www.boardgameatlas.com) 
+[Board Games Atlas](https://www.boardgameatlas.com/api/docs) 
 
 ## Descripción
 
