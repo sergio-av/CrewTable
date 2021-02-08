@@ -18,7 +18,7 @@ sea una especie de Forum Sobre juegos de mesas. la actividad principal, seria un
 ## Funcionamiento 
 
 ### Inicio
-En la vista de inicio podemos ver todos los juegos de mesa que tenemos guardados en nuestra base de datos, con diferetes filtros, en esta seccion podemos observer
+En la vista de inicio podemos ver todos los juegos de mesa que obtenemos de la API, con diferetes filtros, en esta seccion podemos observer
 los siguientes datos de los juegos de mesa:
 
   - Nombre.
