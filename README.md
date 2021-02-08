@@ -13,19 +13,58 @@ aun mayor de lo que podriamos imaginar.
 
 La idea principal de la web es tomar de una API la informacion de los juegos de mesa, de esta forma mostraremos
 en la web todos los juegos de mesas disponible con varios filtros segun las categorias de los juegos, pero lo interesante, es que quiero que la web 
-sea una especie de Forum o red social por asi decirlo sobre juegos de mesa, tendra tanto una zona mas estilo foro para: hablar, analizar o comentar, juegos de mesa
-concretos. Y luego la actividad principal, seria un apartado para la creacion de eventos para que los usuarios de la web puedan crear "eventos" estilo 
+sea una especie de Forum Sobre juegos de mesas. la actividad principal, seria un apartado para la creacion de eventos para que los usuarios de la web puedan crear "eventos" estilo 
   
-- Nombre evento:  "Partida de rol de Dungeon Dragons classic". 
-- Asunto evento:  "Necesitamos 3 personas para jugar".
-- Localización: "Raacon Game" Sevilla.
+## Funcionamiento 
 
-===================================================================
+### Inicio
+En la vista de inicio podemos ver todos los juegos de mesa que tenemos guardados en nuestra base de datos, con diferetes filtros, en esta seccion podemos observer
+los siguientes datos de los juegos de mesa:
 
-- Nombre evento: "Torneo Yu Gi-OH"
-- Asunto evento: " 25 entradas a 10€/entrada"
-- Localizacion:  " Fibes palacio de congresos"
-
-Basicamente esto es un ejemplo de como podria ser, la idea es crear una comunidad, porque como a mi seguro que a mucha gente le pasara que hay 
-juegos increible de mesa a los que le tiene mucha ganas de jugar, pero por cualquier motivo, no encuentro gente para poder jugar a ellos. 
-Esta web solucionaria esto.
+  - Nombre.
+  - Precio.
+  - Año de publicación.
+  - Minimo de jugadores.
+  - Maximo de jugadores.
+  - Minimo de edad recomendada.
+  - Imagen.
+  - Descripción.
+  
+  Dichos juegos de mesas podran ser ordenados por diferentes categorias.
+  
+  ###  Secciones
+  Esta vista es sencilla, nos aparecen las tres categorias por las que se diferencian los Eventos de la web, a seleccionar 
+  una nos llevara directamente a su seccion en la vista Eventos.
+  
+  
+  
+  ### Eventos
+  La vista donde se desarrolla la Función principal de la web.
+  
+  Aquí encontramos el boton principal para publicar Eventos, que al hacer click en el nos llevara a un formulario:
+   
+   - Imagén 
+   - Descripción
+   - Ubicación (Obligatorio)
+   - Fecha  (Obligatorio)
+   - Categoria (Obligatorio)
+   - Titulo (Obligatorio)
+   - Numero de plazas (Obligatorio)
+   
+  Tambien encontramos las diferentes listas de Eventos dependiendo de la categoria a la que han sido añadido.
+  Las categorias 
+  
+   - Duelos de cartas
+   - Juegos clasicos
+   - Juegos de tablero
+   
+  Una vez veamos un evento que nos llame la atención hacemos click en el y llevara a la vista en la que se nos mostrara,
+  los datos del evento en esta vista si no estan completas las plazas, podremos apuntarnos a el evento pulsando en el 
+  boton "Unirme al Evento".
+  
+  ### Perfil 
+  Mostramos el perfil del usuario (que debe de esta registrado y logeado, para poder acceder a esta fucción), 
+  en el perfil encontramos los datos del usuario que seran modificables cuando el lo deseé y una lista con los eventos
+  a los que se ha unido y hacer click en dicho evento para visualizarlo.
+   
+  
