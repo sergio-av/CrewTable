@@ -13,7 +13,7 @@ aun mayor de lo que podriamos imaginar.
 
 La idea principal de la web es tomar de una API la informacion de los juegos de mesa, de esta forma mostraremos
 en la web todos los juegos de mesas disponible con varios filtros segun las categorias de los juegos, pero lo interesante, es que quiero que la web 
-sea una especie de Forum Sobre juegos de mesas. la actividad principal, seria un apartado para la creacion de eventos para que los usuarios de la web puedan crear "eventos" estilo 
+sea una especie de Forum Sobre juegos de mesas. la actividad principal, seria un apartado para la creacion de eventos.
   
 ## Funcionamiento 
 
