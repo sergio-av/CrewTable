@@ -1,5 +1,7 @@
 # CrewTable
 
+- Figma : [Diseño CrewTable](https://www.figma.com/file/JiLWAOJncnrNmJkT23dqTU/CrewTable?node-id=0%3A1)
+
 - Trello : [CrewTable](https://trello.com/b/XNgl3ZbJ/crewtable)
 
 ## API Utilizada
